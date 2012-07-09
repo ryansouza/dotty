@@ -26,7 +26,7 @@ You can symlink stuff to sub directories of ~ by using the in+subdir directory n
 
 ### dotty-symlinks.yml
 
-If you want more control over the symlinking, you can create a dotty-symlink.yml in the repo root.
+If you want more control over the symlinking, you can create a dotty-symlinks.yml in the repo root.
 
 #### Example
     
